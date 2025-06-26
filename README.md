@@ -1,2 +1,2 @@
 # Stage-en-Developpement-Embarque-Geophom
-Conception d'un système de prise de vue automatisée basé sur Raspberry Pi, destiné à capturer des images d'éoliennes et à évaluer leur visibilité. Programmation embarquée avancée avec optimisation des performances système et gestion complète des composants électroniques pour assurer une transmission fiable des données collectées.
+Le but de ce projet est de développer et d'optimiser un système de prise de vue autonome, basé sur un Raspberry Pi, destiné à photographier des éoliennes et évaluer leur visibilité.
